@@ -51,4 +51,4 @@ The domain thelawshop.com is configured with the following DNS records:
     └── workflows/
         ├── firebase-hosting-merge.yml
         └── firebase-hosting-pull-request.yml
-```
+```# Deployment test
